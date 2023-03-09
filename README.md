@@ -1,3 +1,4 @@
+# Credit Card Fraud Prediction
 The aim of this project is to build a machine learning model that can accurately predict whether a credit card transaction is fraudulent or not. 
 This is an important task for financial institutions as it helps them identify and prevent fraudulent activity, which can result in significant financial losses.
 
